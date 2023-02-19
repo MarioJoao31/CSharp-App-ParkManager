@@ -1,0 +1,6 @@
+1-le matricula
+2-ve se na base de dados a matricula esta associada a um user ou se é independente 
+3-guardar movimentos em tabelas diferentes 
+
+
+
